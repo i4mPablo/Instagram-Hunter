@@ -21,6 +21,7 @@ We **do not take any responsibility** for misuse or damage caused by this tool.
 
 ### Linux
 ```bash
+rm -rf instagram-hunter
 git clone https://github.com/i4mPablo/instagram-hunter
 cd instagram-hunter
 python pabloinsta.py
@@ -29,6 +30,7 @@ python pabloinsta.py
 ### Termux
 
 ```bash
+rm -rf instagram-hunter
 git clone https://github.com/i4mPablo/instagram-hunter
 cd instagram-hunter
 python3 pabloinsta.py
